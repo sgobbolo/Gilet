@@ -1,0 +1,12 @@
+{
+  "name": "Atelier Marco",
+  "description": "Professional knitwear design and pattern planning suite.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Vision Analysis",
+    "Pattern Drafting",
+    "Gauge Calculation"
+  ]
+}
